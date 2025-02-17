@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi there, I am Moshi 👋
 
-**DreamRunnerMoshi/DreamRunnerMoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer | Specialist in Fast Paced MVP development | LLM Enthusiast | Scala | C# .Net | SQL Server | React TypeScript | Clean Code
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LLM to democratize
 - 🌱 I’m currently learning to build LLM Agent
 - 👯 I’m looking to collaborate on building LLM for Bangla
-- 💬 Ask me about ...
+- 💬 Ask me about Software Engineering
 - 📫 How to reach me: linkedin.com/in/mosh2i
 
